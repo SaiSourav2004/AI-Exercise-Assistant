@@ -135,7 +135,9 @@ The project can serve as the foundation for future intelligent fitness applicati
 
 <p align="center">
 
-<img src="assets/images/dashboard.png" width="90%">
+<img width="1885" height="898" alt="image" src="https://github.com/user-attachments/assets/22637622-5772-40ce-8ae6-27be274ef0f4" />
+
+
 
 </p>
 
