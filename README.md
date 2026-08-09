@@ -3,7 +3,7 @@
 <!-- ============================================================= -->
 
 <p align="center">
-  <img src="assets/images/banner.png" alt="AI-Based Exercise & Yoga Pose Detection System Banner" width="100%">
+  <img width="2053" height="766" alt="ChatGPT Image Aug 9, 2026, 06_04_48 PM" src="https://github.com/user-attachments/assets/f02e2280-1309-4928-98f5-28388fe56cc5" />
 </p>
 
 <h1 align="center">
