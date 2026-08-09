@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-🧘 AI-Based Exercise & Yoga Pose Detection System 🏋️
+🧘 # AI Exercise Assistant🏋️
 </h1>
 
 <h3 align="center">
