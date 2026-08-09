@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-🧘 # AI Exercise Assistant🏋️
+🧘  AI Exercise Assistant🏋️
 </h1>
 
 <h3 align="center">
