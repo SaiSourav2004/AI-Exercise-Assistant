@@ -776,7 +776,7 @@ Next Frame
 
 # 📈 Performance Evaluation
 
-> **Note:** Replace the placeholders below with your actual evaluation metrics after model testing.
+
 
 | Metric | Value |
 |----------|---------|
